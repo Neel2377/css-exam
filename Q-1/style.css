@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: cornflowerblue;
+}
+ul{
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+}
+a{
+    color: white;
+    font-size: larger;
+    font-weight: 500;
+    text-decoration: none;
+}
